@@ -1,3 +1,4 @@
+/*program to find smallest word in sentence*/
 #include<stdio.h>
 #include<string.h>
 int main()
