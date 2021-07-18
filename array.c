@@ -1,3 +1,4 @@
+/*program to store multiple of 2,7 and 9 in 2d array*/
 #include <stdio.h>
 
 int main()
