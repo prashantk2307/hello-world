@@ -1,4 +1,4 @@
-/*program to find lomgest word in sentence*/
+/*program to find longest word in sentence*/
 #include<stdio.h>
 int main(){
 char s[100];
